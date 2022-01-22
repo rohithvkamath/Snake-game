@@ -1,11 +1,7 @@
 from tkinter import *
 import turtle
 import random
-import time
-
 ws=tr=Tk()                                      
-
-
 def start():
     ws.destroy()            # Closes the Start window and goes for Snake Game.
     w = 1000                # Setting constant width for the screen.
