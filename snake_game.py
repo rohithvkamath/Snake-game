@@ -11,7 +11,7 @@ def start():
     w = 1000                # Setting constant width for the screen.
     h = 700                 # Setting constant height for the screen.
     fs = 10                 
-    d = 125                 # Speed of the movement of snake in milliseconds
+    d = 100                 # Speed of the movement of snake in milliseconds
 
     offsets = {                     # defines by how much offset the snake should turn.
         "up": (0, 20),                 
