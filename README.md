@@ -1,4 +1,4 @@
-#  Snake Game 
+<h1 align="center"> Snake Game</h1>
 <br>
 
 ## Introduction :
@@ -57,7 +57,7 @@ https://docs.python.org/3/library/turtle.html
 ```
 pip install tkinter
 ```
-### To know more about turtle:
+### To know more about tkinter:
 
 https://docs.python.org/3/library/tkinter.html  
 <br>
@@ -84,5 +84,47 @@ Below sreenshot shows how length has increased to that of last screenshot:
 Below Screenshots shows such condition:
 ![Screenshot (88)](https://user-images.githubusercontent.com/86250589/150624814-da97cf6d-6a9c-49ec-9e6e-9c98d3501745.png)
 
+# Contribution:
+### This is an open-source platform. So any contribution for the program is Welcomed.
+<br>
+
+## Cloning the program to the local repository:
+### 1. Fork the repository:
+   - Fork the repository by clicking the FORK button which can be found on the top-right side of the screen.
+### 2. Cloning it locally: 
+   - Open the terminal as Administrator and run the below command:
+   ```
+   git clone https://github.com/rohithvkamath/Snake-game.git
+   ```
+### 3. After cloning run the below command to open the code in your default code editor:
+  ```
+  code .
+  ```
+### 4. Create a new branch and move to it by running below command
+```
+git branch -b <branh_name>
+```
+### 5. Add new features and save it locally.
+### 6. When it is done stage the changes by running the below command in terminal:
+```
+git add -p
+```
+#### type y and enter if promted. If the changes done by you only then do it.
+
+### 7. After this run the below command with message of what you have added.
+```
+git commit -m "<your message here>"
+```
+### 8. After commiting the changes, run below command to push it to github
+```
+git push origin <your_branch_name>
+```
+### 9.After this you have to come to the forked repo and then create a pull request to the main repo.
 
 
+## Contributions that can be done:
+- Adding a better GUI using `tkinter` module.
+- Adding a code to calculate the score and display it in real-time in the window.
+- and many more.
+### Remember whenever a new feature is added, add that feature name in the above title and make it a striked text.
+<h1 align="center">Keep Coding Keep Learning !!!</h1>
