@@ -102,7 +102,7 @@ Below Screenshots shows such condition:
   ```
 ### 4. Create a new branch and move to it by running below command
 ```
-git branch -b <branch_name>
+git branch -m <branch_name>
 ```
 ### 5. Add new features and save it locally.
 ### 6. When it is done stage the changes by running the below command in terminal:
